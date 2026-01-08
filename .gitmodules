@@ -1,0 +1,9 @@
+[submodule "external_tools/bleurt"]
+	path = external_tools/bleurt
+	url = https://github.com/google-research/bleurt.git
+[submodule "external_tools/vecalign"]
+	path = external_tools/vecalign
+	url = https://github.com/thompsonb/vecalign.git
+[submodule "external_tools/LASER"]
+	path = external_tools/LASER
+	url = https://github.com/facebookresearch/LASER.git

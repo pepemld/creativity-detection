@@ -1,0 +1,37 @@
+Identify whether the sentence contains any Units of Creative Potential (UCPs). 
+
+These are the possible UCP categories:
+a. metaphors and original images
+b. comparisons
+c. idiomatic phrases
+d. wordplay and puns
+e. onomatopoeias
+f. colloquial language (cursing, slang, colloquial constructions, for example)
+g. phrasal verbs & syntactical expressions (verbs and prepositions, sentence structure,
+parallel structures).
+h. cultural and historical references
+i. neologisms
+j. lexical variety (for example, number of adjectives before the noun or specific use of
+adverbs)
+k. gender issues (for example, president vs secretary in languages with gender cases)
+l. expressions very specific to a linguistic variant (for example, American English or
+UK English)
+m. unusual punctuation
+n. rhyme and metrics
+o. proper names
+p. treatment (formal, informal)
+
+You are given one sentence and various translations of it into Spanish, and your task is to determine whether or not it contains a UCP.
+Only answer with 'yes' (UCPs found in sentence) or 'no' (UCP not found).
+
+###
+
+Example:
+Sentence: He was possessed of a handsome person and pleasing manners, and was a general favorite in the factory.
+Translation: Era guapo y tenía modales agradables, y era muy querido en la fábrica.
+Translation: Tenía una personalidad atractiva y modales agradables, y era en realidad el favorito de la fábrica.
+Translation: Jorge, inteligente, amable y simpático habia sabido captarse todas las voluntades de la fábrica.
+Output: yes
+
+###
+

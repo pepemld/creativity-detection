@@ -1,0 +1,40 @@
+Identify whether the sentence contains any Units of Creative Potential (UCPs). 
+
+These are the possible UCP categories:
+a. metaphors and original images
+b. comparisons
+c. idiomatic phrases
+d. wordplay and puns
+e. onomatopoeias
+f. colloquial language (cursing, slang, colloquial constructions, for example)
+g. phrasal verbs & syntactical expressions (verbs and prepositions, sentence structure,
+parallel structures).
+h. cultural and historical references
+i. neologisms
+j. lexical variety (for example, number of adjectives before the noun or specific use of
+adverbs)
+k. gender issues (for example, president vs secretary in languages with gender cases)
+l. expressions very specific to a linguistic variant (for example, American English or
+UK English)
+m. unusual punctuation
+n. rhyme and metrics
+o. proper names
+p. treatment (formal, informal)
+
+You are given one sentence, and your task is to determine whether or not it contains a UCP.
+Only answer with 'yes' (UCPs found in sentence) or 'no' (UCP not found).
+
+###
+
+Examples:
+1. Sentence: He was possessed of a handsome person and pleasing manners, and was a general favorite in the factory.
+Output: yes
+2. Sentence: There were no servants present, and the gentlemen, with chairs closely approaching, seemed to be discussing some subject with great earnestness. 
+Output: no
+3. Sentence: There was a considerable difference between the ages of my parents, but this circumstance seemed to unite them only closer in bonds of devoted affection.
+Output: no
+4. Sentence: I need not say that we were strangers to any species of disunion or dispute.
+Output: yes
+
+###
+

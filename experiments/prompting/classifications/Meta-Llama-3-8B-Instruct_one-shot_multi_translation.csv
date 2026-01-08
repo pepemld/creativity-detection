@@ -1,0 +1,124 @@
+segment,sentence,classification
+1,2BR02B,0
+2,Everything was perfectly swell.,1
+3,"There were no prisons, no slums, no insane asylums, no cripples, no poverty, no wars.",1
+4,All diseases were conquered.,1
+5,So was old age.,1
+6,"Death, barring accidents, was an adventure for volunteers.",1
+7,The population of the United States was stabilized at forty-million souls.,0
+8,"One bright morning in the Chicago Lying-in Hospital, a man named Edward K. Wehling, Jr., waited for his wife to give birth.",0
+9,He was the only man waiting.,0
+11,"Wehling was fifty-six, a mere stripling in a population whose average age was one hundred and twenty-nine.",1
+12,X-rays had revealed that his wife was going to have triplets.,1
+13,The children would be his first.,1
+15,"He was so rumpled, so still and colorless as to be virtually invisible.",1
+17,Chairs and ashtrays had been moved away from the walls.,0
+18,The floor was paved with spattered dropcloths.,1
+19~~~20,The room was being redecorated. ~~~ It was being redecorated as a memorial to a man who had volunteered to die.,1
+22,"Back in the days when people aged visibly, his age would have been guessed at thirty-five or so.",0
+23,Aging had touched him that much before the cure for aging was found.,0
+25,"Men and women in white, doctors and nurses, turned the soil, planted seedlings, sprayed bugs, spread fertilizer.",1
+31,Here's what I will do:,0
+32,"I'll go see a girl in purple,",1
+33,Kiss this sad world toodle-oo.,1
+34,"If you don't want my lovin',",1
+35,Why should I take up all this space?,0
+36,"I'll get off this old planet,",1
+37,Let some sweet baby have my place.,1
+39,"Looks so real,"""" he said, """"I can practically imagine I'm standing in the middle of it.""""",1
+41,He gave a satiric smile.,1
+42,"It's called 'The Happy Garden of Life,' you know.""""",1
+50,The painter's face curdled with scorn.,1
+55,"There's a good picture of it,"""" he said.",0
+56,"Frame that, and you'll have a picture a damn sight more honest than this one.""""",1
+59~~~60~~~61~~~62,"The orderly shrugged. ~~~ If you don't like it here, Grandpa—"""" he said, and he finished the thought with the trick telephone number that people who didn't want to live any more were supposed to call. ~~~ The zero in the telephone number he pronounced """"naught."""" ~~~ The number was: ""2 B R 0 2 B.""",1
+63~~~64~~~65,"It was the telephone number of an institution whose fanciful sobriquets included: ""Automat,"" ""Birdland,"" ""Cannery,"" ""Catbox,"" ""De-louser,"" ""Easy-go,"" ""Good-by, Mother,"" ""Happy Hooligan,"" ""Kiss-me-quick,"" ""Lucky Pierre,"" ""Sheepdip,"" ""Waring Blendor,"" ""Weep-no-more"" and ""Why Worry?"" ~~~ ""To be or not to be"" was the telephone number of the municipal gas chambers of the Federal Bureau of Termination. ~~~ The painter thumbed his nose at the orderly.",1
+72,The orderly laughed and moved on.,0
+74,And then he fell silent again.,0
+75,"A coarse, formidable woman strode into the waiting room on spike heels.",1
+76,"Her shoes, stockings, trench coat, bag and overseas cap were all purple, the purple the painter called """"the color of grapes on Judgment Day.""""",1
+78,"The woman had a lot of facial hair—an unmistakable mustache, in fact.",1
+79,"A curious thing about gas-chamber hostesses was that, no matter how lovely and feminine they were when recruited, they all sprouted mustaches within five years or so.",1
+80,"Is this where I'm supposed to come?"""" she said to the painter.",1
+82,"You aren't about to have a baby, are you?""""",1
+83,"They told me I was supposed to pose for some picture,"""" she said.",1
+84,"My name's Leora Duncan.""",0
+85,She waited.,0
+86,"""And you dunk people,"" he said.",1
+87,"""What?"" she said.",1
+88,"""Skip it,"" he said.",1
+89,"That sure is a beautiful picture,"""" she said.",1
+91,"Or something,"""" said the painter.",1
+92,He took a list of names from his smock pocket.,0
+93,"Duncan, Duncan, Duncan,"""" he said, scanning the list.",0
+97,We've got a few choice ones left.,1
+98,She studied the mural bleakly.,1
+99~~~100,"Gee,"""" she said, """"they're all the same to me. ~~~ I don't know anything about art.""""",1
+106,I don't do any disposing.,1
+107,The painter clapped his hands in mock delight.,1
+109,Of course the sheave-carrier is wrong for a hostess!,1
+110,"A snipper, a pruner—that's more your line.",1
+116,"""Good gravy, no!"" she said.",1
+117,"""It's—it's just such an honor.""",1
+118,"""Ah, You... you admire him, eh?"" he said.",1
+119,"Who doesn't admire him?"""" she said, worshiping the portrait of Hitz.",1
+121,"Who doesn't admire him?"""" she said again.",0
+125,"That is kind of like what I do,"""" she said.",1
+126,She was demure about what she did.,0
+128,"And, while Leora Duncan was posing for her portrait, into the waitingroom bounded Dr. Hitz himself.",0
+129,"He was seven feet tall, and he boomed with importance, accomplishments, and the joy of living.",1
+130,"Well, Miss Duncan!",1
+131,"Miss Duncan!"""" he said, and he made a joke.",1
+136,"Good!"""" said Dr. Hitz heartily.",1
+137,"And, say, isn't that some picture?""""",1
+141,He saluted her and moved toward the door that led to the delivery rooms.,0
+142,"Guess what was just born,"""" he said.",0
+143,"""I can't,"" she said.",1
+145,"Triplets!"""" she said.",1
+151,"I don't think they made it,"""" she said.",1
+154,"What's the name?""""",0
+155,"Wehling,"""" said the waiting father, sitting up, red-eyed and frowzy.",1
+156,"Edward K. Wehling, Jr., is the name of the happy father-to-be.""""",1
+158~~~159,"Present,"""" he said. ~~~ ""Oh, Mr. Wehling,"" said Dr. Hitz, ""I didn't see you.""",1
+160,"""The invisible man,"" said Wehling.",1
+161,"They just phoned me that your triplets have been born,"""" said Dr. Hitz.",0
+163,"I'm on my way in to see them now.""""",0
+164,"""Hooray,"" said Wehling emptily.",1
+165,"""You don't sound very happy,"" said Dr. Hitz.",0
+169,"Dr. Hitz became rather severe with Wehling, towered over him.",0
+170,"You don't believe in population control, Mr. Wehling?"""" he said.",0
+172~~~173,"""Would you like to go back to the good old days, when the population of the Earth was twenty billion—about to become forty billion, then eighty billion, then one hundred and sixty billion? ~~~ Do you know what a drupelet is, Mr. Wehling?"" said Hitz.",1
+176~~~177,"Without population control, human beings would now be packed on this surface of this old planet like drupelets on a blackberry! ~~~ Think of it!""""""",1
+178,Wehling continued to stare at the same spot on the wall.,0
+181,"I want those kids,"""" said Wehling quietly.",1
+182,"I want all three of them.""""",0
+183,"Of course you do,"""" said Dr. Hitz.",0
+184,"That's only human.""""",1
+188,"""What?"" said Dr. Hitz.",0
+190,"It gives people the wrong impression.""""",1
+191,"You're absolutely right,"""" said Dr. Hitz.",1
+195,"""That sounds so much better,"" said Leora Duncan.",0
+196,"This child of yours—whichever one you decide to keep, Mr. Wehling,"""" said Dr. Hitz.",1
+199~~~200,"He shook his head. ~~~ Two centuries ago, when I was a young man, it was a hell that nobody thought could last another twenty years.",1
+201,"Now centuries of peace and plenty stretch before us as far as the imagination cares to travel.""""",1
+202,He smiled luminously.,1
+204,Wehling shot Dr. Hitz dead.,1
+205,"There's room for one—a great big one,"" he said.",1
+206,And then he shot Leora Duncan.,1
+207,"It's only death,"""" he said to her as she fell.",1
+209,"And then he shot himself, making room for all three of his children.",1
+210,Nobody came running.,1
+211,"Nobody, seemingly, heard the shots.",0
+213~~~214,"The painter pondered the mournful puzzle of life demanding to be born and, once born, demanding to be fruitful ... to multiply and to live as long as possible—to do all that on a very small planet that would have to last forever. ~~~ All the answers that the painter could think of were grim.",1
+215,"Even grimmer, surely, than a Catbox, a Happy Hooligan, an Easy Go.",1
+216,He thought of war.,1
+217,He thought of plague.,0
+218,He thought of starvation.,0
+219,He knew that he would never paint again.,0
+223,But he didn't have the nerve.,1
+224,And then he saw the telephone booth in the corner of the room.,0
+225,"He went to it, dialed the well-remembered number: """"2 B R 0 2 B.""""",1
+229,"It might even be earlier, if we get a cancellation.""""",0
+230~~~231,"All right,"""" said the painter, """"fit me in, if you please."""" ~~~ And he gave her his name, spelling it out.",1
+232,"Thank you, sir,"""" said the hostess.",1
+233,"""Your city thanks you; your country thanks you; your planet thanks you.",0

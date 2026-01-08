@@ -1,0 +1,41 @@
+# General requirements
+pandas
+numpy>=1.21.3
+nltk
+tf-keras
+
+# epub to text conversion
+ebooklib
+beautifulsoup4
+
+# vecalign
+cython
+mcerp
+
+# LASER
+laser_encoders
+requests
+transliterate
+cmake
+
+# prompting
+transformers
+outlines
+datasets>=4.0.0
+protobuf>=3.0.0
+openai>=2.8
+anthropic
+
+# translation metrics
+bert-score
+unbabel-comet>=2.0.2 #requires python<3.11
+sacrebleu
+python-Levenshtein
+sentence-transformers
+scikit-learn
+git+https://github.com/google-research/bleurt.git
+einops
+flash_attn
+
+# LoRA finetuning
+peft

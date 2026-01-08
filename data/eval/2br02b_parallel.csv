@@ -1,0 +1,217 @@
+segment,sentence,translation,confidence
+1,2BR02B,S3R0N0S3R,0.356763
+2,Everything was perfectly swell.,Todo iba viento en popa.,0.490136
+3,"There were no prisons, no slums, no insane asylums, no cripples, no poverty, no wars.","Habían desaparecido las cárceles, los barrios bajos, los manicomios, la discapacidad, la pobreza, las guerras.",0.240016
+4~~~5,All diseases were conquered. ~~~ So was old age.,"No solo se había erradicado la enfermedad, sino también la vejez.",0.409172
+6,"Death, barring accidents, was an adventure for volunteers.","La muerte, sin contar los accidentes, era una aventura solo apta para voluntarios.",0.180982
+7,The population of the United States was stabilized at forty-million souls.,La población del país se había estabilizado en cuarenta millones de almas.,0.12785
+8,"One bright morning in the Chicago Lying-in Hospital, a man named Edward K. Wehling, Jr., waited for his wife to give birth.","Una mañana radiante en el Hospital Materno Infantil de la ciudad, un hombre llamado Eduardo Quejada esperaba a que diera a luz su mujer.",0.217926
+9,He was the only man waiting.,Era el único.,0.309005
+10,Not many people were born a day any more.,Ya no nacía mucha gente un día cualquiera.,0.170487
+11,"Wehling was fifty-six, a mere stripling in a population whose average age was one hundred and twenty-nine.","Quejada tenía cincuenta y seis años, apenas un mozalbete si tenemos en cuenta que la población tenía una edad media de ciento veintinueve años.",0.215969
+12,X-rays had revealed that his wife was going to have triplets.,La ecografía había desvelado que su mujer iba a tener trillizos.,0.183178
+13,The children would be his first.,Quejada era padre primerizo.,0.581415
+14,"Young Wehling was hunched in his chair, his head in his hand.",El joven Quejada se sentaba encorvado con la cabeza entre las manos.,0.250486
+15,"He was so rumpled, so still and colorless as to be virtually invisible.","Estaba tan desaliñado, paralizado y pálido que era prácticamente invisible.",0.231931
+16,"His camouflage was perfect, since the waiting room had a disorderly and demoralized air, too.",El camuflaje era ideal porque la sala de espera ya tenía un aspecto desordenado y desmoralizador.,0.15189
+17~~~18,Chairs and ashtrays had been moved away from the walls. ~~~ The floor was paved with spattered dropcloths.,Se habían apartado las sillas y los ceniceros de la pared y el suelo estaba recubierto de telas manchadas.,0.152612
+19~~~20,The room was being redecorated. ~~~ It was being redecorated as a memorial to a man who had volunteered to die.,Se estaba renovando la sala para conmemorar a un hombre que se había ofrecido voluntario para morir.,0.147725
+21,"A sardonic old man, about two hundred years old, sat on a stepladder, painting a mural he did not like.","Un hombre mordaz, ya mayor, de unos doscientos años, estaba sentado en la escalera y pintaba un mural que no le gustaba.",0.131816
+22~~~23,"Back in the days when people aged visibly, his age would have been guessed at thirty-five or so. ~~~ Aging had touched him that much before the cure for aging was found.","En los tiempos en que las personas envejecían de manera visible, se hubiera dicho que tenía unos treinta y cinco más o menos porque eran justo esos los años que había cumplido antes de que se encontrara la cura para el envejecimiento.",0.24975
+24,The mural he was working on depicted a very neat garden.,El mural en el que trabajaba representaba un jardín extremadamente cuidado.,0.209526
+25,"Men and women in white, doctors and nurses, turned the soil, planted seedlings, sprayed bugs, spread fertilizer.","Hombres y mujeres de blanco, doctores y enfermeros, cavaban, plantaban semillas, fumigaban, fertilizaban la tierra.",0.115887
+26,"Men and women in purple uniforms pulled up weeds, cut down plants that were old and sickly, raked leaves, carried refuse to trash-burners.","Los hombres y las mujeres vestidos con uniformes violeta quitaban la maleza, talaban las plantas viejas o enfermas, rastrillaban las hojas, llevaban la basura al incinerador.",0.157789
+27,"Never, never, never—not even in medieval Holland nor old Japan—had a garden been more formal, been better tended.","Jamás de los jamases, ni siquiera en los Países Bajos del medioevo ni en el Japón de la antigüedad, se había visto un jardín tan elegante ni mejor atendido.",0.19209
+28,"Every plant had all the loam, light, water, air and nourishment it could use.","Las plantas disponían de toda la tierra, luz, agua, aire y fertilizante necesarios.",0.183542
+29,"A hospital orderly came down the corridor, singing under his breath a popular song:","Por el pasillo, se acercaba un celador cantando en voz baja una canción popular:",0.21644
+30~~~31~~~32~~~33,"If you don't like my kisses, honey, ~~~ Here's what I will do: ~~~ I'll go see a girl in purple, ~~~ Kiss this sad world toodle-oo.","Si no deseas mis besos, amor, otro rumbo tomaré: y a una de violeta, con fervor, este cuerpo donaré.",0.289396
+34~~~35,"If you don't want my lovin', ~~~ Why should I take up all this space?","Si ya no te es suficiente este amor, ¿para qué seguir con él?",0.43766
+36,"I'll get off this old planet,","Mundo cruel, ya me voy con mi dolor.",0.608295
+37,Let some sweet baby have my place.,Y un bebé aquí dejaré.,0.464827
+38,The orderly looked in at the mural and the muralist.,El celador observó el mural y al muralista.,0.154225
+39,"Looks so real,"""" he said, """"I can practically imagine I'm standing in the middle of it.""""",—Parece tan real —dijo—. ~~~ Es que me puedo imaginar ahí mismo en el medio de ese jardín.,0.267274
+40,"What makes you think you're not in it?"""" said the painter.",—¿Y qué te hace pensar que no estás en el medio?,0.435943
+41,He gave a satiric smile.,—dijo el pintor con una sonrisa irónica—.,0.41137
+42,"It's called 'The Happy Garden of Life,' you know.""""","Se llama El feliz jardín de la vida, ¿sabías?",0.134735
+43,"""That's good of Dr. Hitz,"" said the orderly.",—¡Qué majo el doctor Atiza! ~~~ —dijo el celador.,0.362482
+44~~~45,"He was referring to one of the male figures in white, whose head was a portrait of Dr. Benjamin Hitz, the hospital's Chief Obstetrician. ~~~ Hitz was a blindingly handsome man.","Se refería a una de las figuras masculinas de blanco cuya cabeza era un retrato del doctor Benjamín Atiza, el jefe de Obstetricia del hospital. ~~~ Atiza era de una belleza arrolladora.",0.08702
+46,"Lot of faces still to fill in,"""" said the orderly.",—Todavía quedan muchas cabezas por completar —dijo el celador.,0.256524
+47~~~48,"He meant that the faces of many of the figures in the mural were still blank. ~~~ All blanks were to be filled with portraits of important people on either the hospital staff or from the Chicago Office of the Federal Bureau of Termination.""",Se refería a que todavía quedaban muchas figuras en el mural con las cabezas sin rostro que debían completarse con retratos de personas importantes del hospital o de la oficina local de la Agencia Central de Extinción.,0.199165
+49,"""Must be nice to be able to make pictures that look like something,"" said the orderly.",—Debe ser interesante pintar cuadros que se parecen a algo —dijo el celador.,0.239765
+50,The painter's face curdled with scorn.,El pintor lo miró con desdén.,0.401105
+51,"You think I'm proud of this daub?"""" he said.",—¿Es que acaso piensas que estoy orgulloso de este pintarrajo? ~~~ —dijo—.,0.303634
+52,"You think this is my idea of what life really looks like?""""""",¿Es que crees que esta es mi idea de la vida real?,0.270357
+53,"""What's your idea of what life looks like?"" said the orderly.",—¿Cuál es su idea de la vida real? ~~~ —dijo el celador.,0.321017
+54,The painter gestured at a foul dropcloth.,El pintor señaló una tela inmunda.,0.300537
+55,"There's a good picture of it,"""" he said.",—Ahí tienes una buena imagen de la vida —dijo—.,0.289614
+56,"Frame that, and you'll have a picture a damn sight more honest than this one.""""",Enmárcala y tendrás un cuadro más honesto que este.,0.228241
+57,"""You're a gloomy old duck, aren't you?"" said the orderly.","—Es usted unas castañuelas, ¿eh? ~~~ —dijo el celador.",0.369491
+58,"""Is that a crime?"" said the painter.",—¿Es acaso un pecado? ~~~ —dijo el pintor.,0.307963
+59,The orderly shrugged.,El celador se encogió de hombros.,0.385687
+60,"If you don't like it here, Grandpa—"""" he said, and he finished the thought with the trick telephone number that people who didn't want to live any more were supposed to call.","«Abuelo, si no le gusta…», dijo y completó la idea con el número de teléfono con truco al que había que llamar si ya no querías seguir viviendo.",0.191399
+61,"The zero in the telephone number he pronounced """"naught.""""",El cero representaba una «o» y el «3» una «e».,0.50448
+62,"The number was: ""2 B R 0 2 B.""",El número era: «S 3 R 0 N 0 S 3 R ».,0.20661
+63,"It was the telephone number of an institution whose fanciful sobriquets included: ""Automat,"" ""Birdland,"" ""Cannery,"" ""Catbox,"" ""De-louser,"" ""Easy-go,"" ""Good-by, Mother,"" ""Happy Hooligan,"" ""Kiss-me-quick,"" ""Lucky Pierre,"" ""Sheepdip,"" ""Waring Blendor,"" ""Weep-no-more"" and ""Why Worry?""","Era un número de teléfono para una institución que tenía los siguientes apodos creativos: «Autoservicio», «Los pajaritos», «Envasados», «Arenero», «Despiojadora», «Salida fácil», «Adiós, mamá», «Gamberro feliz», «Beso letal», «Final feliz», «Terminator», «La barbacoa», «Basta de sufrir», «No más angustia».",0.140208
+64~~~65,"""To be or not to be"" was the telephone number of the municipal gas chambers of the Federal Bureau of Termination. ~~~ The painter thumbed his nose at the orderly.",«Ser o no ser» era el número de teléfono de las cámaras de gas municipales de la Agencia Central de Extinción. ~~~ El pintor miró al celador con desprecio.,0.13479
+66,"When I decide it's time to go,"""" he said, """"it won't be at the Sheepdip.""""",—Cuando decida que ha llegado la hora —dijo— no será con Terminator.,0.3088
+67,"A do-it-yourselfer, eh?"""" said the orderly.","—Ah, un autodidacta, ¿eh? ~~~ —dijo el celador—.",0.381819
+68,"Messy business, Grandpa.","Abuelo, es un poco complicado.",0.480473
+69,"Why don't you have a little consideration for the people who have to clean up after you?""""",¿Por qué no tiene un poco de consideración por las personas que deberán limpiar después de usted?,0.114549
+70,The painter expressed with an obscenity his lack of concern for the tribulations of his survivors.,El pintor dijo una vulgaridad para expresar su falta de preocupación por las tribulaciones de sus supervivientes.,0.134907
+71,"The world could do with a good deal more mess, if you ask me,"""" he said.","—A decir verdad, al mundo no le vendrían mal bastantes más complicaciones —dijo.",0.366622
+72,The orderly laughed and moved on.,El celador se marchó riéndose.,0.335345
+73~~~74,"Wehling, the waiting father, mumbled something without raising his head. ~~~ And then he fell silent again.","Quejada, el padre en espera, masculló algo ininteligible sin levantar la cabeza y no volvió a decir nada.",0.180579
+75,"A coarse, formidable woman strode into the waiting room on spike heels.",Una mujer grande e imponente que llevaba tacones de aguja entró con decisión a la sala de espera.,0.267112
+76,"Her shoes, stockings, trench coat, bag and overseas cap were all purple, the purple the painter called """"the color of grapes on Judgment Day.""""","Los zapatos, medias, gabardina, bolsa y el gorro eran violetas, el violeta que el pintor llamaba «el color de las uvas del juicio final».",0.165363
+77,"The medallion on her purple musette bag was the seal of the Service Division of the Federal Bureau of Termination, an eagle perched on a turnstile.",El medallón en la bolsa violeta llevaba el escudo de la División de servicio de la Agencia Central de Extinción: un águila posada sobre un molinete.,0.172823
+78,"The woman had a lot of facial hair—an unmistakable mustache, in fact.","La mujer tenía mucho vello, en realidad, tenía un inconfundible bigote.",0.235426
+79,"A curious thing about gas-chamber hostesses was that, no matter how lovely and feminine they were when recruited, they all sprouted mustaches within five years or so.","Lo curioso de las azafatas de la cámara de gas era que, aunque fueran muy dulces y femeninas al llegar, siempre les acababa saliendo bigote en los cinco primeros años de servicio.",0.263062
+80,"Is this where I'm supposed to come?"""" she said to the painter.",—¿Es aquí donde se supone que tengo que venir? ~~~ —le dijo al pintor.,0.229417
+81,"A lot would depend on what your business was,"""" he said.",—Dependerá de lo que la trae hasta aquí —dijo él—.,0.374281
+82,"You aren't about to have a baby, are you?""""","No está a punto de parir, ¿no?",0.378833
+83,"They told me I was supposed to pose for some picture,"""" she said.",—Me dijeron que tenía que posar para un cuadro —dijo ella—.,0.185672
+84,"My name's Leora Duncan.""",Me llamo Salomé García.,0.315592
+85,She waited.,— Y esperó.,0.225534
+86,"""And you dunk people,"" he said.","—Ah, usted es la que corta cabezas —dijo el pintor.",0.487912
+87,"""What?"" she said.",—¿Cómo? ~~~ —dijo ella.,0.241551
+88,"""Skip it,"" he said.","—No, nada, mis cosas —le respondió.",0.614028
+89,"That sure is a beautiful picture,"""" she said.",—¡Qué cuadro tan bonito! ~~~ —dijo—.,0.387714
+90,"Looks just like heaven or something.""""",Parece que fuera el cielo o algo así.,0.249412
+91,"Or something,"""" said the painter.",—Algo así —dijo el pintor.,0.211624
+92,He took a list of names from his smock pocket.,Sacó una lista de nombres de la bata—.,0.376662
+93,"Duncan, Duncan, Duncan,"""" he said, scanning the list.","Salomé, Salomé, Salomé —dijo mientras repasaba la lista—.",0.409499
+94,Yes—here you are.,"Sí, aquí está.",0.148484
+95,You're entitled to be immortalized.,Tiene derecho a ser inmortalizada.,0.112902
+96,See any faceless body here you'd like me to stick your head on?,¿Se ha fijado en algún cuerpo sin rostro donde le gustaría que metiera su cabecita?,0.227426
+97,We've got a few choice ones left.,Aún nos quedan varias opciones de primera.,0.311997
+98,She studied the mural bleakly.,Estudió el mural algo desalentada.,0.268343
+99,"Gee,"""" she said, """"they're all the same to me.","—Vaya —dijo—, si se parecen todos.",0.402543
+100,"I don't know anything about art.""""",Es que no sé nada de arte.,0.201767
+101,"A body's a body, eh?"""" he said, ""All righty.",—Un cuerpo es un cuerpo —dijo—.,0.314339
+102,"As a master of fine art, I recommend this body here.""""","Como maestro de las bellas artes, le recomiendo este cuerpo de aquí.",0.159044
+103,He indicated a faceless figure of a woman who was carrying dried stalks to a trash-burner.,—Y señaló a la figura sin rostro de una mujer que llevaba unas ramas secas al incinerador.,0.210735
+104,"Well,"""" said Leora Duncan, """"that's more the disposal people, isn't it?","—Bueno —dijo Salomé García—, pero esos son los encargados de residuos, ¿no?",0.344673
+105,"I mean, I'm in service.",Quiero decir que yo soy de servicio.,0.097667
+106,I don't do any disposing.,No me encargo de los residuos.,0.416624
+107,The painter clapped his hands in mock delight.,El pintor aplaudió con falsa complacencia.,0.311792
+108,"You say you don't know anything about art, and then you prove in the next breath that you know more about it than I do!""""","—¡Pero si dice que no sabe nada de arte y, de buenas a primeras, demuestra que sabe más que yo!",0.248692
+109,Of course the sheave-carrier is wrong for a hostess!,"¡Claro que no, una cargadora de gavillas no es apropiada para una azafata!",0.27789
+110,"A snipper, a pruner—that's more your line.","Una cortadora, una podadora estaría más en su línea.",0.282111
+111,He pointed to a figure in purple who was sawing a dead branch from an apple tree.,—Y señalo a una figura de violeta que cortaba una rama muerta de un manzano—.,0.246028
+112,"How about her?"""" he said.",¿Y ella? ~~~ —dijo—.,0.283244
+113,"You like her at all?""""",¿Le parece bien?,0.545625
+114,"""Gosh—"" she said, and she blushed and became humble—""that—that puts me right next to Dr. Hitz.""",—Madre mía —se sonrojó y dijo modestamente—: pero eso significaría estar junto al doctor Atiza.,0.266013
+115,"""That upsets you?"" he said.",—¿Y eso le molesta? ~~~ —dijo él.,0.224503
+116,"""Good gravy, no!"" she said.","—Pero ¡qué va, por Dios!",0.755349
+117,"""It's—it's just such an honor.""",—dijo—. ~~~ Es… es todo un honor.,0.292614
+118,"""Ah, You... you admire him, eh?"" he said.","—Ah, usted… lo admira, ¿verdad? ~~~ —dijo él.",0.218837
+119~~~120,"Who doesn't admire him?"""" she said, worshiping the portrait of Hitz. ~~~ It was the portrait of a tanned, white-haired, omnipotent Zeus, two hundred and forty years old.","—¿Y quién no lo admira? ~~~ —dijo, mirando con veneración el retrato de Atiza. ~~~ Era el retrato de un Zeus omnipotente, de pelo blanco y moreno de doscientos cuarenta años—.",0.144857
+121,"Who doesn't admire him?"""" she said again.",¿Y quién no lo admira? ~~~ —repitió—.,0.243842
+122,"He was responsible for setting up the very first gas chamber in Chicago.""""""",Fue el responsable de instalar la primera cámara de gas de la ciudad.,0.248987
+123,"""Nothing would please me more,"" said the painter, ""than to put you next to him for all time.",—No se me ocurre un placer más grande —dijo el pintor— que pintarla junto a él para la posteridad.,0.311301
+124,"Sawing off a limb—that strikes you as appropriate?""",¿Le parece apropiado cortando una extremidad?,0.619798
+125,"That is kind of like what I do,"""" she said.",—Es más o menos lo que hago —dijo.,0.265146
+126,She was demure about what she did.,Hablaba de su profesión con modestia.,0.568943
+127,What she did was make people comfortable while she killed them.,Lo que hacía era hacer que las personas estuvieran cómodas mientras las asesinaba.,0.128721
+128,"And, while Leora Duncan was posing for her portrait, into the waitingroom bounded Dr. Hitz himself.","Y mientras que Salomé García posaba para su retrato, entró enérgicamente el mismísimo doctor Atiza.",0.216149
+129,"He was seven feet tall, and he boomed with importance, accomplishments, and the joy of living.","Medía dos metros y su figura desprendía importancia, éxito y alegría de vivir.",0.198116
+130,"Well, Miss Duncan!","—Pero bueno, ¡señorita Salomé!",0.290673
+131,"Miss Duncan!"""" he said, and he made a joke.",¡Señorita Salomé! ~~~ —dijo y añadió jocoso—: ¿Qué hace aquí?,0.484066
+132,"What are you doing here?"""" he said.",—dijo—.,0.59328
+133~~~134,"This isn't where the people leave. ~~~ This is where they come in!""""","No estamos en la sala donde las visitas se van, sino donde llegan.",0.424686
+135,"""We're going to be in the same picture together,"" she said shyly.",—Vamos a estar en el mismo cuadro juntos —dijo con timidez.,0.228636
+136,"Good!"""" said Dr. Hitz heartily.",—¡Perfecto! ~~~ —dijo el doctor Atiza con entusiasmo—.,0.342996
+137,"And, say, isn't that some picture?""""",¿A que es un cuadro genial?,0.482455
+138,"""I sure am honored to be in it with you,"" she said.",—Es un honor para mí estar junto a usted —dijo ella.,0.232312
+139,"""Let me tell you,"" he said, ""I'm honored to be in it with you.","—Le digo una cosa —dijo él—, el honor es todo mío.",0.578798
+140,"Without women like you, this wonderful world we've got wouldn't be possible.""","Sin mujeres como usted, nuestro mundo maravilloso no sería posible.",0.123146
+141,He saluted her and moved toward the door that led to the delivery rooms.,Le hizo un saludo militar y se dirigió a la puerta de la sala de partos.,0.280705
+142,"Guess what was just born,"""" he said.",—Adivine qué acaba de nacer —dijo.,0.133725
+143,"""I can't,"" she said.",—No sé —dijo ella.,0.26536
+144,"""Triplets!"" he said.",—¡Trillizos! ~~~ —dijo él.,0.190122
+145,"Triplets!"""" she said.",—¡Trillizos!,0.45485
+146,She was exclaiming over the legal implications of triplets.,"—exclamó ella, por las implicaciones legales que suponía tener trillizos.",0.258532
+147,The law said that no newborn child could survive unless the parents of the child could find someone who would volunteer to die.,La ley decía que ningún recién nacido podía sobrevivir si sus padres no encontraban a un voluntario que se prestara a morir.,0.112221
+148,"Triplets, if they were all to live, called for three volunteers.","Los trillizos, para vivir, requerían tres voluntarios.",0.199449
+149,"""Do the parents have three volunteers?"" said Leora Duncan.",—¿Tienen tres voluntarios los padres? ~~~ —dijo Salomé García.,0.240681
+150,"""Last I heard,"" said Dr. Hitz, ""they had one, and were trying to scrape another two up.""",—Lo último que sé —dijo el doctor Atiza— es que tenían uno y que estaban intentando rebuscar otros dos.,0.203921
+151,"I don't think they made it,"""" she said.",—Creo que no lo consiguieron —dijo—.,0.2182
+152,Nobody made three appointments with us.,Nadie concertó tres citas con nosotros.,0.113225
+153,"Nothing but singles going through today, unless somebody called in after I left.","Solo tenemos citas individuales hoy, a no ser que alguien llamara cuando ya me había ido.",0.17799
+154,"What's the name?""""",¿Cómo se llama?,0.175924
+155,"Wehling,"""" said the waiting father, sitting up, red-eyed and frowzy.","—Quejada —dijo el padre en espera, que estaba sentado, con los ojos rojos y desaliñado—.",0.245255
+156,"Edward K. Wehling, Jr., is the name of the happy father-to-be.""""",Eduardo Quejada es el nombre del futuro padre feliz.,0.346473
+157,"He raised his right hand, looked at a spot on the wall, gave a hoarsely wretched chuckle.","Levantó la mano, miró a un punto de la pared y soltó una risa ronca y quejosa.",0.216521
+158,"Present,"""" he said.",—Presente —dijo.,0.207851
+159,"""Oh, Mr. Wehling,"" said Dr. Hitz, ""I didn't see you.""","—Vaya, señor Quejada —dijo el doctor Atiza—. ~~~ No lo había visto.",0.288699
+160,"""The invisible man,"" said Wehling.",—El hombre invisible —dijo Quejada.,0.194514
+161,"They just phoned me that your triplets have been born,"""" said Dr. Hitz.",—Me acaban de llamar para decirme que los trillizos ya nacieron —dijo el doctor Atiza—.,0.18981
+162,"They're all fine, and so is the mother.",Están todos bien y también la mamá.,0.130187
+163,"I'm on my way in to see them now.""""","De hecho, iba a verlos ahora.",0.388628
+164,"""Hooray,"" said Wehling emptily.",—¡Hurra! ~~~ —dijo Quejada sin entusiasmo.,0.419415
+165,"""You don't sound very happy,"" said Dr. Hitz.",—No parece muy contento —dijo el doctor Atiza.,0.206999
+166,"What man in my shoes wouldn't be happy?"""" said Wehling.",—¿Qué hombre no estaría contento en mi lugar? ~~~ —dijo Quejada.,0.342214
+167,He gestured with his hands to symbolize care-free simplicity.,Hizo un gesto con las manos que simbolizaba despreocupación—.,0.311934
+168,"All I have to do is pick out which one of the triplets is going to live, then deliver my maternal grandfather to the Happy Hooligan, and come back here with a receipt.""""","Solo tengo que elegir cuál de los trillizos va a vivir, luego entregar a mi abuelo materno a Gamberro feliz y volver con el recibo.",0.124593
+169,"Dr. Hitz became rather severe with Wehling, towered over him.",El doctor Atiza se mostró duro con Quejada y se inclinó sobre él.,0.222568
+170,"You don't believe in population control, Mr. Wehling?"""" he said.","—¿No cree en el control de la población, señor Quejada? ~~~ —dijo.",0.257665
+171~~~172,"""I think it's perfectly keen,"" said Wehling tautly. ~~~ ""Would you like to go back to the good old days, when the population of the Earth was twenty billion—about to become forty billion, then eighty billion, then one hundred and sixty billion?","—Me parece una verdadera fiesta —dijo Quejada con cierta tensión. ~~~ —¿Le gustaría volver a los viejos tiempos, cuando la población de la Tierra era de veinte mil millones, a punto de convertirse en cuarenta, luego ochenta y luego ciento sesenta mil millones?",0.132373
+173,"Do you know what a drupelet is, Mr. Wehling?"" said Hitz.","¿Sabe lo que es una drupa, señor Quejada? ~~~ —dijo Atiza.",0.243325
+174,"""Nope,"" said Wehling sulkily.",—Nop —dijo Quejada enfurruñado.,0.397324
+175,"A drupelet, Mr. Wehling, is one of the little knobs, one of the little pulpy grains of a blackberry,"""" said Dr. Hitz.","—Una drupa, señor Quejada, es la parte pequeñita, los granitos carnosos de la mora —dijo el doctor Atiza—.",0.273025
+176,"Without population control, human beings would now be packed on this surface of this old planet like drupelets on a blackberry!","¡Sin control de la población, los seres humanos estaríamos comprimidos en la superficie de este viejo planeta como drupas en una mora!",0.121693
+177,"Think of it!""""""",¡Imagínese!,0.420956
+178,Wehling continued to stare at the same spot on the wall.,Quejada seguía mirando al mismo punto de la pared.,0.204343
+179~~~180,"""In the year 2000,"" said Dr. Hitz, ""before scientists stepped in and laid down the law, there wasn't even enough drinking water to go around, and nothing to eat but sea-weed—and still people insisted on their right to reproduce like jackrabbits. ~~~ And their right, if possible, to live forever.""","—En el año 2000 —dijo el doctor Atiza—, antes de que los científicos intervinieran y aplicaran la ley, no existía siquiera suficiente agua potable para todos y solo se podían comer algas, y, a pesar de todo, la gente insistía en su derecho a reproducirse como conejos; y en su derecho, a ser posible, de vivir eternamente.",0.135816
+181,"I want those kids,"""" said Wehling quietly.",—Yo los quiero a los niños —dijo Quejada en voz baja—.,0.299826
+182,"I want all three of them.""""",Los quiero a los tres.,0.27855
+183,"Of course you do,"""" said Dr. Hitz.",—Y claro que los quiere —dijo el doctor Atiza—.,0.257788
+184,"That's only human.""""",Desearlos es humano.,0.504875
+185,"""I don't want my grandfather to die, either,"" said Wehling.",—Pero tampoco quiero que se muera mi abuelo —dijo Quejada.,0.201461
+186,"""Nobody's really happy about taking a close relative to the Catbox,"" said Dr. Hitz gently, sympathetically.","—Nadie se vuelve loco por llevar a un pariente cercano al Arenero —dijo amablemente el doctor Atiza, con compasión.",0.263
+187,"""I wish people wouldn't call it that,"" said Leora Duncan.",—Me gustaría que la gente no lo llamara así —dijo Salomé García.,0.23815
+188,"""What?"" said Dr. Hitz.",—¿Cómo? ~~~ —dijo el doctor Atiza.,0.279709
+189,"I wish people wouldn't call it 'the Catbox,' and things like that,"""" she said.",—Me gustaría que la gente no lo llamara ‘el Arenero’ o apodos similares —dijo—.,0.237558
+190,"It gives people the wrong impression.""""",Crea una idea equivocada.,0.394809
+191,"You're absolutely right,"""" said Dr. Hitz.",—Tiene toda la razón —dijo el doctor Atiza—.,0.232828
+192,"Forgive me.""""",Perdóneme.,0.242803
+193,"He corrected himself, gave the municipal gas chambers their official title, a title no one ever used in conversation.","—Se corrigió y dio a las cámaras de gas municipales su nombre oficial, un nombre que nunca nadie usaba al hablar—.",0.195364
+194,"I should have said, 'Ethical Suicide Studios,'"""" he said.""",Debería haber dicho: ‘Estudios de suicidio ético’ —dijo.,0.081506
+195,"""That sounds so much better,"" said Leora Duncan.",—Así suena muchísimo mejor —dijo Salomé García.,0.228625
+196,"This child of yours—whichever one you decide to keep, Mr. Wehling,"""" said Dr. Hitz.","—Este hijo suyo, el que al fin decida conservar, señor Quejada —dijo el doctor Atiza—.",0.25093
+197,"He or she is going to live on a happy, roomy, clean, rich planet, thanks to population control.","Él o ella vivirá en un planeta rico, limpio, espacioso y feliz gracias al control de la población.",0.109767
+198,"In a garden like that mural there.""""",En un jardín como el de ese mural.,0.164781
+199~~~200,"He shook his head. ~~~ Two centuries ago, when I was a young man, it was a hell that nobody thought could last another twenty years.","—Asintió con la cabeza—. ~~~ Hace dos siglos, cuando yo era joven, era un infierno que nadie creía duraría veinte años más.",0.088793
+201,"Now centuries of peace and plenty stretch before us as far as the imagination cares to travel.""""","Ahora, siglos de paz y abundancia se extienden ante nosotros hasta donde alcanza la imaginación.",0.192675
+202,He smiled luminously.,Sonrió intensamente.,0.203719
+203,The smile faded as he saw that Wehling had just drawn a revolver.,La sonrisa se disipó en cuanto vio que Quejada había sacado un revólver.,0.17522
+204,Wehling shot Dr. Hitz dead.,Quejada mató al Dr. Atiza de un disparo.,0.275498
+205,"There's room for one—a great big one,"" he said.","—Ya hay lugar para uno, un espacio bien grande —dijo.",0.143515
+206,And then he shot Leora Duncan.,"Acto seguido, le disparó a Salomé García.",0.37094
+207,"It's only death,"""" he said to her as she fell.",—Tan solo es morirse —le dijo mientras caía al suelo—.,0.322554
+208,"There! Room for two.""""",Ya hay lugar para dos.,0.309647
+209,"And then he shot himself, making room for all three of his children.",Y luego se disparó y así hizo lugar para sus tres hijos.,0.137263
+210,Nobody came running.,Nadie acudió corriendo.,0.080124
+211,"Nobody, seemingly, heard the shots.","Nadie, al parecer, oyó los disparos.",0.036047
+212,"The painter sat on the top of his stepladder, looking down reflectively on the sorry scene.",El pintor se quedó sentado en el último peldaño de la escalera y observó la malograda escena.,0.242659
+213,"The painter pondered the mournful puzzle of life demanding to be born and, once born, demanding to be fruitful ... to multiply and to live as long as possible—to do all that on a very small planet that would have to last forever.","El pintor reflexionó sobre el triste rompecabezas de la vida que exige nacer y, una vez en el mundo, exige fructificar… multiplicarse y vivir el máximo posible, y cumplir con este destino en un pequeñísimo planeta que debe durar para siempre.",0.094567
+214,All the answers that the painter could think of were grim.,Todas las respuestas que se le ocurrían al pintor eran desoladoras.,0.244586
+215,"Even grimmer, surely, than a Catbox, a Happy Hooligan, an Easy Go.","Con certeza más que el Arenero, Gamberro feliz o Salida fácil.",0.309128
+216,He thought of war.,Pensó en la guerra.,0.097571
+217,He thought of plague.,Pensó en la peste.,0.173748
+218,He thought of starvation.,Pensó en la inanición.,0.168154
+219,He knew that he would never paint again.,Sabía que no volvería a pintar.,0.12739
+220,He let his paintbrush fall to the drop-cloths below.,Dejó caer el pincel a las telas que cubrían el suelo.,0.311344
+221~~~222,"And then he decided he had had about enough of life in the Happy Garden of Life, too, and he came slowly down from the ladder. ~~~ He took Wehling's pistol, really intending to shoot himself.","Y luego decidió que él también había tenido ya suficiente en El jardín feliz de la vida y bajó lentamente de la escalera. ~~~ Le quitó la pistola a Quejada, con la intención real de dispararse.",0.098436
+223,But he didn't have the nerve.,Pero le faltó coraje.,0.331684
+224,And then he saw the telephone booth in the corner of the room.,Entonces vio el teléfono en la esquina de la sala.,0.095578
+225,"He went to it, dialed the well-remembered number: """"2 B R 0 2 B.""""",Se acercó y marcó el conocido número: S 3 R 0 N 0 S 3 R.,0.26958
+226,"""Federal Bureau of Termination,"" said the very warm voice of a hostess.",—Agencia Central de Extinción —dijo la dulce voz de la azafata.,0.290706
+227,"""How soon could I get an appointment?"" he asked, speaking very carefully.",—¿Para cuándo es la primera cita disponible? ~~~ —preguntó con lentitud.,0.382904
+228,"We could probably fit you in late this afternoon, sir,"""" she said.","—Seguramente lo podamos acomodar esta tarde a última hora, señor —dijo—.",0.251959
+229,"It might even be earlier, if we get a cancellation.""""",Podría ser incluso antes si tenemos alguna cancelación.,0.187638
+230,"All right,"""" said the painter, """"fit me in, if you please.""""","—Bien —dijo el pintor—, apúnteme, si es tan amable.",0.317207
+231,"And he gave her his name, spelling it out.",—Y le deletreó su nombre completo.,0.327528
+232,"Thank you, sir,"""" said the hostess.","—Muchas gracias, señor —dijo la azafata—.",0.281691
+233,"""Your city thanks you; your country thanks you; your planet thanks you.",La ciudad le da las gracias; el país le da las gracias; el planeta le da las gracias.,0.138358
+234,"But the deepest thanks of all is from future generations.""",Pero el agradecimiento más grande es el de las generaciones futuras.,0.2364

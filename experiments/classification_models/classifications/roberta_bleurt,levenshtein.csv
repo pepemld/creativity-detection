@@ -1,0 +1,235 @@
+segment,sentence,classification,confidence
+1,2BR02B,1,0.9546050429344177
+2,Everything was perfectly swell.,1,0.991584300994873
+3,"There were no prisons, no slums, no insane asylums, no cripples, no poverty, no wars.",1,0.987528920173645
+4,All diseases were conquered.,1,0.9145635366439819
+5,So was old age.,1,0.8917067050933838
+6,"Death, barring accidents, was an adventure for volunteers.",1,0.9832109212875366
+7,The population of the United States was stabilized at forty-million souls.,1,0.960883378982544
+8,"One bright morning in the Chicago Lying-in Hospital, a man named Edward K. Wehling, Jr., waited for his wife to give birth.",1,0.9903607368469238
+9,He was the only man waiting.,1,0.9131121635437012
+10,Not many people were born a day any more.,1,0.9653345942497253
+11,"Wehling was fifty-six, a mere stripling in a population whose average age was one hundred and twenty-nine.",1,0.987220048904419
+12,X-rays had revealed that his wife was going to have triplets.,1,0.9274221062660217
+13,The children would be his first.,1,0.9072186350822449
+14,"Young Wehling was hunched in his chair, his head in his hand.",1,0.9960982799530029
+15,"He was so rumpled, so still and colorless as to be virtually invisible.",1,0.9961386322975159
+16,"His camouflage was perfect, since the waiting room had a disorderly and demoralized air, too.",1,0.9991664886474609
+17,Chairs and ashtrays had been moved away from the walls.,1,0.9964806437492371
+18,The floor was paved with spattered dropcloths.,1,0.9959723353385925
+19,The room was being redecorated.,1,0.9812803864479065
+20,It was being redecorated as a memorial to a man who had volunteered to die.,1,0.9819960594177246
+21,"A sardonic old man, about two hundred years old, sat on a stepladder, painting a mural he did not like.",1,0.9972422122955322
+22,"Back in the days when people aged visibly, his age would have been guessed at thirty-five or so.",1,0.9940301179885864
+23,Aging had touched him that much before the cure for aging was found.,1,0.9974708557128906
+24,The mural he was working on depicted a very neat garden.,1,0.99320387840271
+25,"Men and women in white, doctors and nurses, turned the soil, planted seedlings, sprayed bugs, spread fertilizer.",1,0.9966530203819275
+26,"Men and women in purple uniforms pulled up weeds, cut down plants that were old and sickly, raked leaves, carried refuse to trash-burners.",1,0.9981202483177185
+27,"Never, never, never—not even in medieval Holland nor old Japan—had a garden been more formal, been better tended.",1,0.9945122003555298
+28,"Every plant had all the loam, light, water, air and nourishment it could use.",1,0.9759818315505981
+29,"A hospital orderly came down the corridor, singing under his breath a popular song:",1,0.9990416169166565
+30,"If you don't like my kisses, honey,",1,0.9910059571266174
+31,Here's what I will do:,1,0.9769740700721741
+32,"I'll go see a girl in purple,",1,0.990114688873291
+33,Kiss this sad world toodle-oo.,1,0.992609441280365
+34,"If you don't want my lovin',",1,0.9943484663963318
+35,Why should I take up all this space?,1,0.9581419825553894
+36,"I'll get off this old planet,",1,0.9970179796218872
+37,Let some sweet baby have my place.,1,0.9946300983428955
+38,The orderly looked in at the mural and the muralist.,1,0.9971143007278442
+39,"Looks so real,"""" he said, """"I can practically imagine I'm standing in the middle of it.""""",1,0.9977198243141174
+40,"What makes you think you're not in it?"""" said the painter.",1,0.9784820675849915
+41,He gave a satiric smile.,1,0.9926692247390747
+42,"It's called 'The Happy Garden of Life,' you know.""""",1,0.9915052056312561
+43,"""That's good of Dr. Hitz,"" said the orderly.",1,0.9883484840393066
+44,"He was referring to one of the male figures in white, whose head was a portrait of Dr. Benjamin Hitz, the hospital's Chief Obstetrician.",1,0.9931225180625916
+45,Hitz was a blindingly handsome man.,1,0.9165554642677307
+46,"Lot of faces still to fill in,"""" said the orderly.",1,0.9971062541007996
+47,He meant that the faces of many of the figures in the mural were still blank.,1,0.9922731518745422
+48,"All blanks were to be filled with portraits of important people on either the hospital staff or from the Chicago Office of the Federal Bureau of Termination.""",1,0.9961217045783997
+49,"""Must be nice to be able to make pictures that look like something,"" said the orderly.",1,0.9974215030670166
+50,The painter's face curdled with scorn.,1,0.9970576763153076
+51,"You think I'm proud of this daub?"""" he said.",1,0.9936478734016418
+52,"You think this is my idea of what life really looks like?""""""",1,0.9773545861244202
+53,"""What's your idea of what life looks like?"" said the orderly.",1,0.9402673244476318
+54,The painter gestured at a foul dropcloth.,1,0.9975029826164246
+55,"There's a good picture of it,"""" he said.",1,0.9900660514831543
+56,"Frame that, and you'll have a picture a damn sight more honest than this one.""""",1,0.9984838366508484
+57,"""You're a gloomy old duck, aren't you?"" said the orderly.",1,0.9953179359436035
+58,"""Is that a crime?"" said the painter.",1,0.8806214332580566
+59,The orderly shrugged.,1,0.982105016708374
+60,"If you don't like it here, Grandpa—"""" he said, and he finished the thought with the trick telephone number that people who didn't want to live any more were supposed to call.",1,0.9989846348762512
+61,"The zero in the telephone number he pronounced """"naught.""""",1,0.9921290874481201
+62,"The number was: ""2 B R 0 2 B.""",1,0.98918217420578
+63,"It was the telephone number of an institution whose fanciful sobriquets included: ""Automat,"" ""Birdland,"" ""Cannery,"" ""Catbox,"" ""De-louser,"" ""Easy-go,"" ""Good-by, Mother,"" ""Happy Hooligan,"" ""Kiss-me-quick,"" ""Lucky Pierre,"" ""Sheepdip,"" ""Waring Blendor,"" ""Weep-no-more"" and ""Why Worry?""",1,0.9993724226951599
+64,"""To be or not to be"" was the telephone number of the municipal gas chambers of the Federal Bureau of Termination.",1,0.9927910566329956
+65,The painter thumbed his nose at the orderly.,1,0.997350811958313
+66,"When I decide it's time to go,"""" he said, """"it won't be at the Sheepdip.""""",1,0.9980827569961548
+67,"A do-it-yourselfer, eh?"""" said the orderly.",1,0.9914030432701111
+68,"Messy business, Grandpa.",1,0.9710557460784912
+69,"Why don't you have a little consideration for the people who have to clean up after you?""""",1,0.9813474416732788
+70,The painter expressed with an obscenity his lack of concern for the tribulations of his survivors.,1,0.9958449006080627
+71,"The world could do with a good deal more mess, if you ask me,"""" he said.",1,0.9955175518989563
+72,The orderly laughed and moved on.,1,0.995751142501831
+73,"Wehling, the waiting father, mumbled something without raising his head.",1,0.9932229518890381
+74,And then he fell silent again.,1,0.9839698672294617
+75,"A coarse, formidable woman strode into the waiting room on spike heels.",1,0.9984109401702881
+76,"Her shoes, stockings, trench coat, bag and overseas cap were all purple, the purple the painter called """"the color of grapes on Judgment Day.""""",1,0.9973772764205933
+77,"The medallion on her purple musette bag was the seal of the Service Division of the Federal Bureau of Termination, an eagle perched on a turnstile.",1,0.9978612065315247
+78,"The woman had a lot of facial hair—an unmistakable mustache, in fact.",1,0.9939310550689697
+79,"A curious thing about gas-chamber hostesses was that, no matter how lovely and feminine they were when recruited, they all sprouted mustaches within five years or so.",1,0.9986925721168518
+80,"Is this where I'm supposed to come?"""" she said to the painter.",1,0.9675903916358948
+81,"A lot would depend on what your business was,"""" he said.",1,0.994617760181427
+82,"You aren't about to have a baby, are you?""""",1,0.9517272710800171
+83,"They told me I was supposed to pose for some picture,"""" she said.",1,0.9932695031166077
+84,"My name's Leora Duncan.""",1,0.9312037229537964
+85,She waited.,1,0.9439627528190613
+86,"""And you dunk people,"" he said.",1,0.9721015095710754
+87,"""What?"" she said.",1,0.6943662762641907
+88,"""Skip it,"" he said.",1,0.9802504777908325
+89,"That sure is a beautiful picture,"""" she said.",1,0.9924909472465515
+90,"Looks just like heaven or something.""""",1,0.9959244728088379
+91,"Or something,"""" said the painter.",1,0.9772894382476807
+92,He took a list of names from his smock pocket.,1,0.9839085936546326
+93,"Duncan, Duncan, Duncan,"""" he said, scanning the list.",1,0.9757827520370483
+94,Yes—here you are.,1,0.9732387065887451
+95,You're entitled to be immortalized.,1,0.9555972218513489
+96,See any faceless body here you'd like me to stick your head on?,1,0.9991021156311035
+97,We've got a few choice ones left.,1,0.9926415085792542
+98,She studied the mural bleakly.,1,0.9903572201728821
+99,"Gee,"""" she said, """"they're all the same to me.",1,0.994911253452301
+100,"I don't know anything about art.""""",1,0.9418420791625977
+101,"A body's a body, eh?"""" he said, ""All righty.",1,0.9951496720314026
+102,"As a master of fine art, I recommend this body here.""""",1,0.9954817295074463
+103,He indicated a faceless figure of a woman who was carrying dried stalks to a trash-burner.,1,0.9971572160720825
+104,"Well,"""" said Leora Duncan, """"that's more the disposal people, isn't it?",1,0.9984948635101318
+105,"I mean, I'm in service.",1,0.9526118040084839
+106,I don't do any disposing.,1,0.9700408577919006
+107,The painter clapped his hands in mock delight.,1,0.9979076385498047
+108,"You say you don't know anything about art, and then you prove in the next breath that you know more about it than I do!""""",1,0.9925282001495361
+109,Of course the sheave-carrier is wrong for a hostess!,1,0.9977444410324097
+110,"A snipper, a pruner—that's more your line.",1,0.9987648725509644
+111,He pointed to a figure in purple who was sawing a dead branch from an apple tree.,1,0.9896994233131409
+112,"How about her?"""" he said. ",1,0.9568333625793457
+113,"You like her at all?""""",1,0.9439488053321838
+114,"""Gosh—"" she said, and she blushed and became humble—""that—that puts me right next to Dr. Hitz.""",1,0.9961876273155212
+115,"""That upsets you?"" he said.",1,0.9669485092163086
+116,"""Good gravy, no!"" she said.",1,0.9740972518920898
+117,"""It's—it's just such an honor.""",1,0.9826292991638184
+118,"""Ah, You... you admire him, eh?"" he said.",1,0.983961820602417
+119,"Who doesn't admire him?"""" she said, worshiping the portrait of Hitz.",1,0.9878759384155273
+120,"It was the portrait of a tanned, white-haired, omnipotent Zeus, two hundred and forty years old.",1,0.9875641465187073
+121,"Who doesn't admire him?"""" she said again.",1,0.9623397588729858
+122,"He was responsible for setting up the very first gas chamber in Chicago.""""""",1,0.973517119884491
+123,"""Nothing would please me more,"" said the painter, ""than to put you next to him for all time.",1,0.9872363209724426
+124,"Sawing off a limb—that strikes you as appropriate?""",1,0.9955844283103943
+125,"That is kind of like what I do,"""" she said.",1,0.9893614649772644
+126,She was demure about what she did.,1,0.9929470419883728
+127,What she did was make people comfortable while she killed them.,1,0.9902201890945435
+128,"And, while Leora Duncan was posing for her portrait, into the waitingroom bounded Dr. Hitz himself.",1,0.9942827224731445
+129,"He was seven feet tall, and he boomed with importance, accomplishments, and the joy of living.",1,0.9982436895370483
+130,"Well, Miss Duncan!",1,0.9608175754547119
+131,"Miss Duncan!"""" he said, and he made a joke.",1,0.9955238103866577
+132,"What are you doing here?"""" he said.",1,0.8816704750061035
+133,This isn't where the people leave.,1,0.9477652907371521
+134,"This is where they come in!""""",1,0.9857444167137146
+135,"""We're going to be in the same picture together,"" she said shyly.",1,0.9857471585273743
+136,"Good!"""" said Dr. Hitz heartily.",1,0.9897457361221313
+137,"And, say, isn't that some picture?""""",1,0.9919719696044922
+138,"""I sure am honored to be in it with you,"" she said.",1,0.9880556464195251
+139,"""Let me tell you,"" he said, ""I'm honored to be in it with you.",1,0.991176962852478
+140,"Without women like you, this wonderful world we've got wouldn't be possible.""",1,0.9917494058609009
+141,He saluted her and moved toward the door that led to the delivery rooms.,1,0.9921219348907471
+142,"Guess what was just born,"""" he said.",1,0.9921144247055054
+143,"""I can't,"" she said.",1,0.8493309020996094
+144,"""Triplets!"" he said.",1,0.8585140705108643
+145,"Triplets!"""" she said.",1,0.9317185878753662
+146,She was exclaiming over the legal implications of triplets.,1,0.9813824892044067
+147,The law said that no newborn child could survive unless the parents of the child could find someone who would volunteer to die.,1,0.9825458526611328
+148,"Triplets, if they were all to live, called for three volunteers.",1,0.9756664037704468
+149,"""Do the parents have three volunteers?"" said Leora Duncan.",1,0.8064997792243958
+150,"""Last I heard,"" said Dr. Hitz, ""they had one, and were trying to scrape another two up.""",1,0.9925984144210815
+151,"I don't think they made it,"""" she said.",1,0.9782094955444336
+152,Nobody made three appointments with us.,1,0.9538031220436096
+153,"Nothing but singles going through today, unless somebody called in after I left.",1,0.9956464171409607
+154,"What's the name?""""",1,0.8767304420471191
+155,"Wehling,"""" said the waiting father, sitting up, red-eyed and frowzy.",1,0.9977249503135681
+156,"Edward K. Wehling, Jr., is the name of the happy father-to-be.""""",1,0.9808422327041626
+157,"He raised his right hand, looked at a spot on the wall, gave a hoarsely wretched chuckle.",1,0.999358594417572
+158,"Present,"""" he said.",1,0.9657990336418152
+159,"""Oh, Mr. Wehling,"" said Dr. Hitz, ""I didn't see you.""",1,0.9663504362106323
+160,"""The invisible man,"" said Wehling.",1,0.875671923160553
+161,"They just phoned me that your triplets have been born,"""" said Dr. Hitz.",1,0.9732933640480042
+162,"They're all fine, and so is the mother.",1,0.9871020913124084
+163,"I'm on my way in to see them now.""""",1,0.9893798232078552
+164,"""Hooray,"" said Wehling emptily.",1,0.9799608588218689
+165,"""You don't sound very happy,"" said Dr. Hitz.",1,0.9682421684265137
+166,"What man in my shoes wouldn't be happy?"""" said Wehling.",1,0.9698609709739685
+167,He gestured with his hands to symbolize care-free simplicity.,1,0.9968587160110474
+168,"All I have to do is pick out which one of the triplets is going to live, then deliver my maternal grandfather to the Happy Hooligan, and come back here with a receipt.""""",1,0.9961228966712952
+169,"Dr. Hitz became rather severe with Wehling, towered over him.",1,0.9959684610366821
+170,"You don't believe in population control, Mr. Wehling?"""" he said.",1,0.950518786907196
+171,"""I think it's perfectly keen,"" said Wehling tautly.",1,0.9956353306770325
+172,"""Would you like to go back to the good old days, when the population of the Earth was twenty billion—about to become forty billion, then eighty billion, then one hundred and sixty billion?",1,0.992479681968689
+173,"Do you know what a drupelet is, Mr. Wehling?"" said Hitz.",1,0.9273721575737
+174,"""Nope,"" said Wehling sulkily.",1,0.9662365913391113
+175,"A drupelet, Mr. Wehling, is one of the little knobs, one of the little pulpy grains of a blackberry,"""" said Dr. Hitz.",1,0.9967526197433472
+176,"Without population control, human beings would now be packed on this surface of this old planet like drupelets on a blackberry!",1,0.9987466335296631
+177,"Think of it!""""""",1,0.9868068099021912
+178,Wehling continued to stare at the same spot on the wall.,1,0.9860184192657471
+179,"""In the year 2000,"" said Dr. Hitz, ""before scientists stepped in and laid down the law, there wasn't even enough drinking water to go around, and nothing to eat but sea-weed—and still people insisted on their right to reproduce like jackrabbits.",1,0.9944890737533569
+180,"And their right, if possible, to live forever.""",1,0.956529438495636
+181,"I want those kids,"""" said Wehling quietly.",1,0.9850600361824036
+182,"I want all three of them.""""",1,0.9782907962799072
+183,"Of course you do,"""" said Dr. Hitz.",1,0.9605677127838135
+184,"That's only human.""""",1,0.9877179861068726
+185,"""I don't want my grandfather to die, either,"" said Wehling.",1,0.9079240560531616
+186,"""Nobody's really happy about taking a close relative to the Catbox,"" said Dr. Hitz gently, sympathetically.",1,0.9950875639915466
+187,"""I wish people wouldn't call it that,"" said Leora Duncan.",1,0.9799991846084595
+188,"""What?"" said Dr. Hitz.",1,0.693077564239502
+189,"I wish people wouldn't call it 'the Catbox,' and things like that,"""" she said.",1,0.9946216344833374
+190,"It gives people the wrong impression.""""",1,0.9834421277046204
+191,"You're absolutely right,"""" said Dr. Hitz.",1,0.9686307907104492
+192,"Forgive me.""""",1,0.9382322430610657
+193,"He corrected himself, gave the municipal gas chambers their official title, a title no one ever used in conversation.",1,0.998427152633667
+194,"I should have said, 'Ethical Suicide Studios,'"""" he said.""",1,0.995817244052887
+195,"""That sounds so much better,"" said Leora Duncan.",1,0.9799671769142151
+196,"This child of yours—whichever one you decide to keep, Mr. Wehling,"""" said Dr. Hitz.",1,0.986652672290802
+197,"He or she is going to live on a happy, roomy, clean, rich planet, thanks to population control.",1,0.9963721036911011
+198,"In a garden like that mural there.""""",1,0.9973049163818359
+199,He shook his head.,1,0.9794914722442627
+200,"Two centuries ago, when I was a young man, it was a hell that nobody thought could last another twenty years.",1,0.9855697751045227
+201,"Now centuries of peace and plenty stretch before us as far as the imagination cares to travel.""""",1,0.9975584745407104
+202,He smiled luminously.,1,0.9845708012580872
+203,The smile faded as he saw that Wehling had just drawn a revolver.,1,0.9977012276649475
+204,Wehling shot Dr. Hitz dead.,1,0.9179170727729797
+205,"There's room for one—a great big one,"" he said.",1,0.9941616654396057
+206,And then he shot Leora Duncan.,1,0.8860471248626709
+207,"It's only death,"" he said to her as she fell.",1,0.9737963676452637
+208,There! Room for two.,1,0.9688584208488464
+209,"And then he shot himself, making room for all three of his children.",1,0.9814799427986145
+210,Nobody came running.,1,0.9733569025993347
+211,"Nobody, seemingly, heard the shots.",1,0.9848862290382385
+212,"The painter sat on the top of his stepladder, looking down reflectively on the sorry scene.",1,0.9978308081626892
+213,"The painter pondered the mournful puzzle of life demanding to be born and, once born, demanding to be fruitful ... to multiply and to live as long as possible—to do all that on a very small planet that would have to last forever.",1,0.9982216954231262
+214,All the answers that the painter could think of were grim.,1,0.9904050827026367
+215,"Even grimmer, surely, than a Catbox, a Happy Hooligan, an Easy Go.",1,0.998506486415863
+216,He thought of war.,1,0.9144547581672668
+217,He thought of plague.,1,0.9463168978691101
+218,He thought of starvation.,1,0.9260037541389465
+219,He knew that he would never paint again.,1,0.9802795648574829
+220,He let his paintbrush fall to the drop-cloths below.,1,0.9979192614555359
+221,"And then he decided he had had about enough of life in the Happy Garden of Life, too, and he came slowly down from the ladder.",1,0.9991692304611206
+222,"He took Wehling's pistol, really intending to shoot himself.",1,0.9791176319122314
+223,But he didn't have the nerve.,1,0.965707540512085
+224,And then he saw the telephone booth in the corner of the room.,1,0.9664585590362549
+225,"He went to it, dialed the well-remembered number: """"2 B R 0 2 B.""""",1,0.9984286427497864
+226,"""Federal Bureau of Termination,"" said the very warm voice of a hostess.",1,0.9974586367607117
+227,"""How soon could I get an appointment?"" he asked, speaking very carefully.",1,0.9652741551399231
+228,"We could probably fit you in late this afternoon, sir,"""" she said.",1,0.9745529890060425
+229,"It might even be earlier, if we get a cancellation.""""",1,0.9845194816589355
+230,"All right,"""" said the painter, """"fit me in, if you please.""""",1,0.9980667233467102
+231,"And he gave her his name, spelling it out.",1,0.9896107912063599
+232,"Thank you, sir,"""" said the hostess.",1,0.9676149487495422
+233,"""Your city thanks you; your country thanks you; your planet thanks you.",1,0.9518885016441345
+234,"But the deepest thanks of all is from future generations.""",1,0.9850893616676331

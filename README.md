@@ -1,6 +1,6 @@
-# Automatic Detection of Creative Potential in Translation
+# Automatic Detection of Creativity in Translation
 
-This repository includes the code for my masters thesis from the Erasmus Mundus Masters in Language and Communication Technologies, developed at the University of Groningen and Charles University.
+This repository contains the code for my masters thesis from the Erasmus Mundus Masters in Language and Communication Technologies, developed at the University of Groningen and Charles University.
 
 The data is not publicly released; this repository only includes dummy data for the story '2BR02B'.
 
@@ -36,6 +36,8 @@ git add submodule https://github.com/facebookresearch/LASER.git
 git add submodule https://github.com/google-research/bleurt.git
 ```
 
+#### LASER embeddings
+
 1. Download the LASER models.
 For this, move into the desired path and then run:
 ```
@@ -58,7 +60,7 @@ cd external_tools/LASER
 ./install_external_tools.sh
 ```
 
-### BLEURT
+#### BLEURT
 The model needs to be downloaded manually.
 
 ```
